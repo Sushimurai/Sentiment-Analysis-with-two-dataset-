@@ -12,10 +12,11 @@ The goal of this project is to build a sentiment analysis model capable of class
 ## Datasets Used
 
 1. **[Sentiment Dataset with 1 Million Tweets](https://www.kaggle.com/datasets/tariqsays/sentiment-dataset-with-1-million-tweets)**  
-   This dataset contains over 1 million labeled tweets where each tweet is associated with a sentiment label (positive, negative, or neutral). It has been preprocessed and cleaned to make it suitable for sentiment classification tasks.
+   This dataset contains over 1 million labeled tweets, where each tweet is associated with a sentiment label (positive, negative, or neutral). For more information on a similar project using this dataset, see this [GitHub repository](https://github.com/basel5621/Sentiment-Analysis-with-Sentiment-Dataset-with-1-Million.git).
 
 2. **[Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)**  
-   This dataset contains 1.6 million tweets, each labeled as either positive, negative, or neutral sentiment. It includes the tweet content, sentiment label, and additional metadata (e.g., date, user, etc.).
+   This dataset contains 1.6 million tweets, each labeled with sentiment (positive, negative, or neutral). A related project implementation for this dataset can be found in this [GitHub repository](https://github.com/basel5621/Sentiment-Analysis-with-Sentiment140-dataset.git).
+
 
 ## Files in the Repository
 
